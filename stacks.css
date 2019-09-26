@@ -12,13 +12,13 @@ html {
 }
 
 body {
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: 'Raleway', Arial, 'Segoe UI', sans-serif;
   background-color: hsl(60deg, 10%, 90%);
   font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Merriweather', Times, sans-serif;
+  font-family: 'Merriweather', Times, 'Times New Roman', serif;
 }
 
 header {
